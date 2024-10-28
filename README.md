@@ -1,4 +1,9 @@
-## Hi there 👋
+## Welcome
+
+I am a member of the organization [WIAS-PDELib](https://github.com/WIAS-PDELib) and (co)-deveoper of the packages
+- [ExtendableFEM.jl](https://github.com/WIAS-PDELib/ExtendableFEM.jl): finite element solver for PDEs with a high-level API
+- [ExtendableFEMBase.jl](https://github.com/WIAS-PDELib/ExtendableFEMBase.jl): basic finite element structures
+- [ExtendableGrids.jl](https://github.com/WIAS-PDELib/ExtendableGrods.jl) (with [j-fu](https://github.com/j-fu)): unstructured grid management library
 
 <!--
 **chmerdon/chmerdon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
